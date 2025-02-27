@@ -109,4 +109,13 @@ Các bài lab trong dự án này được thiết kế nhằm trang bị cho si
 2. Tải và cài đặt [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms).
 3. Clone dự án về máy:
    ```bash
-   git clone <link-repository-của-bạn>
+   git clone https://github.com/NguyenMinh1301/MOB1014.git
+---
+## Thông Tin Liên Hệ
+Nếu bạn có bất kỳ câu hỏi hoặc ý kiến nào, vui lòng liên hệ:
+- **Họ và tên**: [Nguyễn Quang Minh](https://nguyenminh8.wordpress.com/)
+- **Email**: nguyenminh1301.dev@gmail.com
+- **Số điện thoại**: +84 0378 229 818
+- **GitHub**: [NguyenMinh1301](https://github.com/NguyenMinh1301)
+
+Chúc bạn học tốt!
