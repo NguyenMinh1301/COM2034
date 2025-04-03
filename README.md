@@ -115,7 +115,6 @@ Các bài lab trong dự án này được thiết kế nhằm trang bị cho si
 Nếu bạn có bất kỳ câu hỏi hoặc ý kiến nào, vui lòng liên hệ:
 - **Họ và tên**: [Nguyễn Quang Minh](https://nguyenminh8.wordpress.com/)
 - **Email**: nguyenminh1301.dev@gmail.com
-- **Số điện thoại**: +84 0378 229 818
 - **GitHub**: [NguyenMinh1301](https://github.com/NguyenMinh1301)
 
 Chúc bạn học tốt!
